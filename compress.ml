@@ -4,8 +4,6 @@ let rec print_contents contents =
 	| hd::tl -> Printf.printf "%s\n" hd; print_contents tl
 
 (* READ FILE + MAKE DATA *)
-
-	(* !WARNING! This was copy pasted, needs to be changed *)
 	let read_file filename = 
 		let lines = ref [] in
 		let chan = open_in filename in

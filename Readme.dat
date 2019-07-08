@@ -1,0 +1,14 @@
+How to run:
+
+1. open terminal:
+2. navigate to folder where files are saved:
+3. use command:
+	make
+4. use command:
+	./compress filename1.ext filename2.ext
+5. use command:
+	make decompress
+6. use command
+	./decompress filename2.ext filename3.ext
+
+filename1.ext and filename3.ext should have the same contents

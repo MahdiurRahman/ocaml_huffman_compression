@@ -1,4 +1,4 @@
-# ocaml_huffman_compression
+# Huffman Compression Algorithm in functional language oCaml
 This is a Huffman-Code compression program built in oCaml.
 
 ABOUT THIS PROJECT:
